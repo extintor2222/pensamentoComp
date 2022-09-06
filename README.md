@@ -1,1 +1,4 @@
-# pensamentoComp
+-Meu nome é Flávio.
+-estou aprendendo a programar jogos no scratch.
+-tenho curiosidae em aprender na web.
+-para entrar em contato comigo acesse meu email brito.flavio@escola.pr.gov.br
